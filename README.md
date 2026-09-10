@@ -11,20 +11,20 @@ This repository contains the projects and tasks completed during the Web Develop
 ### Level 1 / Task 1: Landing Page
 
 - **Description:** A responsive, modern landing page designed using HTML, CSS, and JavaScript.
-- **Repository / Code:** [Task 1 Source Code](https://github.com/abhisheksrivastav63/OIBSIP/tree/main/WebDev-L1-LandingPage)
-- **Live Demo:** [Task 1 Live Demo](https://abhisheksrivastav63.github.io/OIBSIP/WebDev-L1-LandingPage/)
+- **Repository / Code:** [Task 1 Source Code](https://github.com/abhisheksrivastav63-lab/OIBSIP/tree/main/WebDev-L1-LandingPage)
+- **Live Demo:** [Task 1 Live Demo](https://abhisheksrivastav63-lab.github.io/OIBSIP/WebDev-L1-LandingPage/)
 
 ### Level 1 / Task 2: Portfolio Website
 
 - **Description:** A personal portfolio website highlighting bio, skill sets, project showcase, and a contact form.
-- **Repository / Code:** [Task 2 Source Code](https://github.com/abhisheksrivastav63/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio)
-- **Live Demo:** [Task 2 Live Demo](https://abhisheksrivastav63.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/)
+- **Repository / Code:** [Task 2 Source Code](https://github.com/abhisheksrivastav63-lab/OIBSIP/tree/main/WebDev-L1-PersonalPortfolio)
+- **Live Demo:** [Task 2 Live Demo](https://abhisheksrivastav63-lab.github.io/OIBSIP/WebDev-L1-PersonalPortfolio/)
 
 ### Level 1 / Task 3: Temperature Converter Website
 
 - **Description:** An interactive web tool to convert temperatures between Celsius, Fahrenheit, and Kelvin.
-- **Repository / Code:** [Task 3 Source Code](https://github.com/abhisheksrivastav63/OIBSIP/tree/main/WebDev-L1-TemperatureConverter)
-- **Live Demo:** [Task 3 Live Demo](https://abhisheksrivastav63.github.io/OIBSIP/WebDev-L1-TemperatureConverter/)
+- **Repository / Code:** [Task 3 Source Code](https://github.com/abhisheksrivastav63-lab/OIBSIP/tree/main/WebDev-L1-TemperatureConverter)
+- **Live Demo:** [Task 3 Live Demo](https://abhisheksrivastav63-lab.github.io/OIBSIP/WebDev-L1-TemperatureConverter/)
 
 ---
 
@@ -38,6 +38,6 @@ This repository contains the projects and tasks completed during the Web Develop
 ## Author
 
 - **Name:** Abhishek Srivastav
-- **LinkedIn:** [Abhishek](https://www.linkedin.com/in/abhisheksrivastav63/)
-- **GitHub:** [GitHub Profile](https://github.com/abhisheksrivastav63)
+- **LinkedIn:** [Abhishek](https://www.linkedin.com/in/abhisheksrivastav63-lab/)
+- **GitHub:** [GitHub Profile](https://github.com/abhisheksrivastav63-lab)
 
