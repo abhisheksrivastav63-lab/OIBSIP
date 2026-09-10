@@ -37,7 +37,7 @@ This repository contains the projects and tasks completed during the Web Develop
 
 ## Author
 
-- **Name:** Shashank Mall
-- **LinkedIn:** [Shashank](https://www.linkedin.com/in/abhisheksrivastav63/)
+- **Name:** Abhishek Srivastav
+- **LinkedIn:** [Abhishek](https://www.linkedin.com/in/abhisheksrivastav63/)
 - **GitHub:** [GitHub Profile](https://github.com/abhisheksrivastav63)
 
